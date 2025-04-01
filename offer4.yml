@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2025-03-26 12:10">
+  <shop>
+    <name>NCImport</name>
+    <company>NCImport</company>
+    <url>https://ncimport.ru/</url>
+    <email>ceo@ncimport.ru</email>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Легковой автомобиль</category>
+      <category id="2" parentId="1">Внедорожник</category>
+      <category id="3" parentId="1">Седан</category>
+      <category id="4" parentId="1">Лифтбек</category>
+      <category id="5" parentId="1">Купе</category>
+    </categories>
+    <sets><!--Каждый set обязан содержать хотя бы url-->
+      <set id="s1">
+        <name>Новые автомобили премиум класса в Москве</name>
+        <url>https://ncimport.ru/</url>
+      </set>
+    </sets>
+    <offers>
+      <offer id="0000022"><!--А это уже конкретное предложение - экземпляр автомобиля-->
+        <name>Новый Cadillac Escalade из США</name>
+        <description>Cadillac Escalade V 3.0 дизель 2025 новый</description>
+        <vendor>Cadillac</vendor>
+        <url>https://ncimport.ru/?modal=modalCadillac_Escalade</url>
+        <price>12880000</price>
+        <currencyId>RUR</currencyId>
+        <set-ids>s1</set-ids>
+        <categoryId>2</categoryId>
+        <picture>https://ncimport.ru/images/cars/Cadillac_Escalade/front-double.jpg</picture>
+        <picture>https://ncimport.ru/images/cars/Cadillac_Escalade/in.jpg</picture>
+        <picture>https://ncimport.ru/images/cars/Cadillac_Escalade/int.jpg</picture>
+        <picture>https://ncimport.ru/images/cars/Cadillac_Escalade/side.jpg</picture>
+        <picture>https://ncimport.ru/images/cars/Cadillac_Escalade/back.jpg</picture>
+        <param name="Конверсия">51464769874</param>
+        <param name="Год создания">2025</param>
+        <param name="Пробег">0 </param>
+        <param name="Двигатель, литры">3.0</param>
+        <param name="Двигатель, л.с.">277</param>
+        <param name="Топливо">Дизель</param>
+        <param name="Коробка">Автоматическая</param>
+        <param name="Состояние">Новый</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

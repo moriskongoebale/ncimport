@@ -1,0 +1,798 @@
+.calc-btn, .card-btn, .fax-btn, .main-button, .main-slider, .modal-input, .order-btn, .sold-overlay {
+    box-sizing: border-box
+}
+
+.calc-btn, .calculation-input, .main-button, .modal-input, .phone-btn {
+    outline: 0;
+    cursor: pointer
+}
+
+.main-description, .nav-link {
+    font-family: Evolventa-Oblique, sans-serif
+}
+
+.card-btn, .main-button {
+    box-sizing: border-box;
+    flex-shrink: 0
+}
+
+.calc-btn:hover, .calculation-button:hover, .card-btn:hover, .main-button:hover, .order-btn:hover, .phone-btn:hover, .share-btn:hover {
+    background: linear-gradient(90deg, #43a1d6 0, #9bdbfd 50%, #3d71a9 100%)
+}
+
+.fax-btn:hover {
+    background: linear-gradient(90deg, #7dfa67 0, #74be67 50%, #0d5e23 100%)
+}
+
+.contacts-text, .street {
+    text-decoration-color: transparent !important
+}
+
+.call-contacts-info, .contacts-text, .street {
+    text-decoration: none !important
+}
+
+.footer-column, .footer-line, .social-icons, .sold-overlay {
+    text-align: center
+}
+
+* {
+    margin: 0;
+    padding: 0
+}
+
+@font-face {
+    font-family: Evolventa-BoldOblique;
+    src: url("../fonts/Evolventa-BoldOblique.ttf")
+}
+
+@font-face {
+    font-family: Evolventa-Oblique;
+    src: url("../fonts/Evolventa-Oblique.ttf")
+}
+
+@font-face {
+    font-family: Nunito-Medium;
+    src: url("../fonts/Nunito-Medium.ttf")
+}
+
+@font-face {
+    font-family: Nunito-Regular;
+    src: url("../fonts/Nunito-Regular.ttf")
+}
+
+.logo {
+    max-width: 240px;
+    margin-right: 30px
+}
+
+.header .navbar {
+    padding: 15px 0 20px;
+    z-index: 13
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px
+}
+
+.nav-item a {
+    color: #003f65;
+    cursor: pointer
+}
+
+.nav-link {
+    font-weight: 700;
+    font-size: 16px;
+    margin-right: 15px
+}
+
+.nav-link:hover {
+    color: #178bdc
+}
+
+.main {
+    background-image: url('../images/main-image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0 150px
+}
+
+.main-title {
+    margin-top: 20px;
+    font-family: Evolventa-BoldOblique, sans-serif;
+    color: #fff;
+    font-size: 56px;
+    letter-spacing: 5px
+}
+
+.main-description {
+    margin-bottom: 0;
+    margin-top: 20px;
+    color: #073448;
+    font-size: 26px;
+    font-weight: 600;
+    background: linear-gradient(270deg, rgba(43, 166, 241, 0) -1.12%, #2ba6f1 -1.11%, rgba(159, 217, 252, .99) 79.11%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+.main-button, .main-description-two {
+    color: #fff;
+    font-family: Evolventa-Oblique, sans-serif;
+    font-size: 20px
+}
+
+.calculation-button, .main-button {
+    font-weight: bolder;
+    letter-spacing: 1px
+}
+
+.main-description-two {
+    margin-bottom: 0
+}
+
+.main-action {
+    margin-top: 40px
+}
+
+.main-button {
+    border-radius: 10px;
+    background: linear-gradient(90deg, rgba(36, 155, 184, .9) 5.08%, rgba(10, 51, 76, .9) 114.58%);
+    width: 320px;
+    height: 70px;
+    border: 0
+}
+
+.advantage-item, .calculation-button, .calculation-input {
+    box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, .15);
+    border-radius: 10px
+}
+
+.accordion-button, .advantage-header, .advantage-title, .call-contacts-info, .call-text, .contacts-title, .copy, .copyright, .street {
+    font-family: Nunito-Medium, sans-serif
+}
+
+.advantages {
+    padding: 30px 0 60px;
+    background: #d9d9d9
+}
+
+.advantage-title {
+    margin-bottom: 40px;
+    color: #000;
+    font-size: 32px
+}
+
+.advantage-item {
+    height: 290px;
+    padding: 10px;
+    background: #fff;
+    transition: .5s
+}
+
+.calculation-button, .calculation-input {
+    height: 60px
+}
+
+.advantage-item:hover {
+    transform: scale(1.1);
+    cursor: pointer
+}
+
+.advantage-icon, .modal-content {
+    margin-top: 10px
+}
+
+.advantage-header {
+    margin-top: 20px;
+    font-size: 22px;
+    color: #0a334c
+}
+
+.advantage-text {
+    margin-top: 20px;
+    color: #626262;
+    font-family: Nunito-Regular, sans-serif;
+    font-size: 16px
+}
+
+.calculation {
+    padding: 80px 0 0;
+    background-color: #d9d9d9
+}
+
+.calculation-title, .catalog-title, .process-title, .questions-title, .review-title, .screen-title {
+    margin-bottom: 30px;
+    color: #000;
+    font-family: Nunito-Medium, sans-serif;
+    font-size: 32px
+}
+
+.form-text {
+    margin-left: 5px;
+    color: #0a334c;
+    font-family: Nunito-Medium, sans-serif;
+    font-size: 18px
+}
+
+.calculation-button, .card-btn {
+    cursor: pointer;
+    outline: 0;
+    font-family: Evolventa-Oblique, sans-serif
+}
+
+.calculation-input {
+    padding: 15px
+}
+
+.calculation-input::placeholder {
+    color: #888;
+    font-family: Evolventa, sans-serif;
+    font-size: 16px
+}
+
+.calculation-button {
+    background: linear-gradient(90deg, rgba(36, 155, 184, .9) 5.08%, rgba(10, 51, 76, .9) 114.58%);
+    border: 0;
+    color: #fff;
+    font-size: 20px
+}
+
+.calc-btn:hover, .calculation-button:hover, .fax-btn:hover, .order-btn:hover {
+    color: #fff
+}
+
+.swiper {
+    padding-bottom: 20px
+}
+
+.swiper-navigation {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px
+}
+
+.catalog {
+    user-select: none;
+    padding: 80px 0 50px;
+    background: #d9d9d9
+}
+
+.swiper-container {
+    width: auto;
+    overflow: hidden
+}
+
+.thumbnail-slider > .swiper-wrapper {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between
+}
+
+.main-slider {
+    width: auto;
+    padding: 0 0 10px
+}
+
+.main-swiper .swiper-slide img {
+    border-radius: 5px
+}
+
+.thumbnail-slider .swiper-slide {
+    max-width: 146px;
+    max-height: 100px
+}
+
+.product-card {
+    width: 100%;
+}
+
+.product-card img {
+    border-radius: 10px 10px 0 0
+}
+
+.card-body {
+    border-radius: 0 0 10px 10px;
+}
+
+.card-title {
+    font-family: Evolventa, sans-serif;
+    color: #0a334c;
+    font-size: 16px
+}
+
+.from, .key-offer {
+    font-family: Nunito-Regular, sans-serif;
+    font-size: 12px
+}
+
+.from {
+    color: #626262
+}
+
+.card-btn {
+    border-radius: 10px;
+    background: linear-gradient(90deg, rgba(36, 155, 184, .9) 5.08%, rgba(10, 51, 76, .9) 114.58%);
+    width: 100px;
+    height: 45px;
+    border: 0;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    box-shadow: 2px 8px 16px -8px rgba(0, 0, 0, .3), 2px 13px 27px -5px rgba(50, 82, 93, .25)
+}
+
+.back-catalog {
+    background-color: white;
+    border: 0;
+}
+
+.back-catalog:hover {
+    text-decoration: underline;
+    text-decoration-color: dodgerblue;
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 0.3em;
+    text-decoration-style: solid;
+}
+
+.fax-btn, .order-btn {
+    height: 40px;
+    font-size: 16px
+}
+
+.calc-btn, .fax-btn, .fax-btn a, .order-btn {
+    color: #fff;
+    font-family: Evolventa-Oblique, sans-serif;
+    font-weight: bolder;
+    letter-spacing: 1px
+}
+
+.order-btn {
+    border: 0;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #249bb8 5.08%, #0a334c 114.58%);
+    flex-shrink: 0
+}
+
+.fax-btn {
+    border: 0;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #7dfa67 0, #0d5e23 50%, #0d5e23 100%);
+    flex-shrink: 0
+}
+
+.car-fax-one {
+    padding-right: 4px
+}
+
+.car-fax-two {
+    padding-left: 4px
+}
+
+.calc-btn, .modal-input {
+    width: 260px;
+    height: 50px
+}
+
+.calc-btn {
+    border-radius: 10px;
+    border: 0;
+    background: linear-gradient(90deg, rgba(36, 155, 184, .9) 5.08%, rgba(10, 51, 76, .9) 114.58%);
+    font-size: 20px
+}
+
+.modal-title, .sale {
+    font-family: Evolventa, sans-serif;
+    color: #0a334c
+}
+
+.modal-input {
+    border-radius: 10px;
+    border: 1px solid #0a334c;
+    background: #fffbfb
+}
+
+.modal-input::placeholder {
+    color: #888;
+    font-family: Evolventa, sans-serif;
+    font-size: 16px
+}
+
+.modal-title {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 1px
+}
+
+.sale {
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bolder
+}
+
+.characteristics {
+    font-family: Nunito-Regular, sans-serif;
+    font-size: 14px;
+    padding-top: 0
+}
+
+.characteristics p {
+    margin-bottom: 10px
+}
+
+.scrollable-content {
+    cursor: pointer;
+    max-height: 670px;
+    overflow-y: auto
+}
+
+.scrollable-content::-webkit-scrollbar {
+    width: 10px
+}
+
+.scrollable-content::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, rgba(36, 155, 184, .9) 5.08%, rgba(10, 51, 76, .9) 114.58%);
+    border-radius: 5px
+}
+
+.scrollable-content::-webkit-scrollbar-track {
+    background-color: #bcbcbd;
+    border-radius: 5px
+}
+
+.btn-close {
+    position: absolute;
+    top: 3px;
+    right: 3px
+}
+
+.modal {
+    background: rgba(0, 0, 0, .30)
+}
+
+.modal-body {
+    padding-top: 5px;
+    padding-bottom: 0
+}
+
+.modal-header {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.modal-dialog {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#callModal {
+    z-index: 9999;
+}
+
+#loaderContainer {
+    z-index: 99999;
+}
+
+.modal-dialog-form {
+    max-width: 600px;
+    margin: 0 auto
+}
+
+.contacts-info, .copyright, .footer-line, .social-icons {
+    margin-top: 30px
+}
+
+.swiper-button-next, .swiper-button-prev {
+    width: 40px;
+    height: 40px;
+    color: rgba(28, 80, 115, .9);
+    border: 3px solid #fff;
+    border-radius: 10%;
+    cursor: pointer
+}
+
+.swiper-button-next, .swiper-button-prev:hover {
+    border-color: steelblue;
+}
+
+.swiper-button-next {
+    right: 46%
+}
+
+.swiper-button-prev {
+    left: 46%
+}
+
+.review {
+    padding: 80px 0 30px;
+    background-color: #d9d9d9
+}
+
+.slide-name {
+    font-family: Nunito-Regular, sans-serif, sans-serif;
+    font-size: 18px;
+    color: #003f65
+}
+
+.contacts-street, .contacts-text, .process-murk-up, .process-text, .review-slide, .review-text {
+    font-family: Nunito-Regular, sans-serif
+}
+
+.review .swiper-slide {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #fff
+}
+
+.overlay, .sold-overlay {
+    position: absolute;
+    justify-content: center
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0
+}
+
+.review-slide {
+    padding: 5px;
+    font-size: 14px;
+    color: #888;
+    height: 125px
+}
+
+.review-text {
+    color: #003f65;
+    font-size: 12px
+}
+
+.review-icon {
+    display: none
+}
+
+.overlay {
+    border-radius: 10px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .6);
+    display: flex;
+    align-items: center;
+    opacity: 0;
+    transition: opacity .3s;
+    cursor: pointer
+}
+
+.link-social, .process-icon, .process-icon svg:hover, .vertical-line {
+    transition: .5s
+}
+
+.swiper-slide:hover .overlay {
+    opacity: 1
+}
+
+.screen {
+    padding: 30px 0 40px;
+    background-color: #d9d9d9
+}
+
+.process, .questions {
+    background-color: #fff
+}
+
+#swiper6 .swiper-slide {
+    cursor: pointer;
+    border-radius: 10px;
+    overflow: hidden
+}
+
+.contacts, .process {
+    padding: 90px 0 50px
+}
+
+.vertical-line {
+    border-radius: 50px;
+    font-size: 0;
+    border-left: 6px solid rgba(10, 51, 76, .9);
+    height: 100px;
+    margin-left: 23px;
+    margin-right: 20px;
+    cursor: pointer
+}
+
+.vertical-line:hover, i:hover {
+    transform: scale(1.3)
+}
+
+.process-icon {
+    cursor: pointer
+}
+
+.process-text {
+    margin-left: 20px;
+    color: #888;
+    font-size: 16px
+}
+
+.process-murk-up {
+    color: rgba(10, 51, 76, .9);
+    font-size: 20px;
+    font-weight: bolder
+}
+
+.questions {
+    padding: 30px 0 50px
+}
+
+.accordion-button {
+    background-color: rgba(10, 51, 76, .9);
+    color: #fff;
+    font-size: 20px
+}
+
+.accordion-body {
+    color: #888
+}
+
+.accordion-button::after {
+    background-color: #fff;
+    border-radius: 10px
+}
+
+.contacts-title {
+    color: #000;
+    font-size: 32px
+}
+
+.contacts-text {
+    color: #0a334c;
+    font-size: 20px
+}
+
+.contacts-street {
+    color: #888;
+    font-size: 16px
+}
+
+iframe {
+    width: 90%
+}
+
+.the-end {
+    background-position: center
+}
+
+.footer {
+    padding: 30px 0;
+    background-color: #232628
+}
+
+.footer-logo {
+    max-width: 200px
+}
+
+.street {
+    color: #fff !important;
+    font-size: 14px
+}
+
+.social-icons {
+    margin-bottom: 30px
+}
+
+.link-social {
+    margin-right: 10px;
+    cursor: pointer
+}
+
+.footer-line {
+    border-top: 1px solid #888
+}
+
+.copyright {
+    color: #888;
+    font-size: 20px
+}
+
+.copy {
+    color: #2388c7;
+    font-size: 18px
+}
+
+.phone-btn {
+    padding: 8px;
+    height: 38px;
+    border-radius: 10px;
+    background: #003f65;
+    border: 0;
+    color: #fff;
+    font-family: Evolventa-Oblique, sans-serif;
+    font-size: 12px;
+    z-index: 15
+}
+
+.loader-container, .sold-overlay {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex
+}
+
+.call-text {
+    font-size: 16px;
+    color: #888
+}
+
+.call-contacts-info {
+    max-width: 110px;
+    color: #003f65 !important;
+    font-size: 12px
+}
+
+.sold-overlay {
+    border-radius: 10px;
+    background: linear-gradient(rgba(3, 48, 70, .96), transparent), linear-gradient(90deg, rgba(1, 21, 31, .44), transparent), linear-gradient(-90deg, rgba(211, 211, 211, .65), transparent);
+    align-items: center;
+    color: #fff;
+    font-family: Evolventa-BoldOblique, sans-serif;
+    font-size: 28px;
+    font-weight: 700
+}
+
+.loader-container {
+    position: fixed;
+    background-color: #000;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999
+}
+
+.loader-container > .logo {
+    width: auto;
+    height: auto;
+    animation: 1s infinite alternate pulse
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1.1)
+    }
+    50% {
+        transform: scale(1.2)
+    }
+    100% {
+        transform: scale(1.3)
+    }
+}
+
+.share-btn {
+    display: none;
+    border: 0;
+    background: rgba(10, 51, 76, .9);
+}
+
+.logo-overlay .logo-card {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: none;
+}
+
+.img-logo-card {
+    padding: 26px 0 29px 0;
+    user-select: none;
+}
+
+

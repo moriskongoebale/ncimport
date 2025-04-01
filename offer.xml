@@ -1,0 +1,703 @@
+<data>
+
+    <cars>
+
+        <car>
+            <!--                                                                New  Cadillac Escalade                                                                -->
+            <mark_id>Cadillac</mark_id>
+            <folder_id>Escalade, V</folder_id>
+            <modification_id>3.0 АТ (277 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalCadillac_Escalade</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>12735000</price>
+            <currency>RUR</currency>
+            <vin>0000022</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                                New  Range Rover                                                                -->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>V</folder_id>
+            <modification_id>3.0 АТ (395 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalRange_Rover_86</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range_Rover_86/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_86/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_86/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_86/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_86/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2025</year>
+            <price>15045000</price>
+            <currency>RUR</currency>
+            <vin>0000086</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                                New  Mercedes-Benz GLE 350                                                              -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLE 350, II (V167) Рестайлинг</folder_id>
+            <modification_id>2.0 АТ (255 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalMercedes-Benz_GLE_350_93</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_93/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_93/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_93/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_93/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_93/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2025</year>
+            <price>9165000</price>
+            <currency>RUR</currency>
+            <vin>0000093</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                                New  Mercedes-Benz GLS 450                                                             -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLS 450, II (X167) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (375 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalMercedes-Benz_GLS_450_95</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_95/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_95/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_95/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_95/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_95/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>11990000</price>
+            <currency>RUR</currency>
+            <vin>0000095</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Lexus GX 550                                                          -->
+            <mark_id>Lexus</mark_id>
+            <folder_id>GX 550, III</folder_id>
+            <modification_id>3.4 АТ (349 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalLexus_GX_550_12</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2025</year>
+            <price>12120000</price>
+            <currency>RUR</currency>
+            <vin>00000012</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Toyota LC 250                                                        -->
+            <mark_id>Toyota</mark_id>
+            <folder_id>LC 250, 250 Series</folder_id>
+            <modification_id>2.4 АТ (330 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalToyota_LC_250_20</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Toyota_LC_250_20/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Toyota_LC_250_20/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Toyota_LC_250_20/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Toyota_LC_250_20/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Toyota_LC_250_20/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2025</year>
+            <price>8350000</price>
+            <currency>RUR</currency>
+            <vin>00000020</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Ford F-150 Raptor V8                                                       -->
+            <mark_id>Ford</mark_id>
+            <folder_id>F-150 Raptor V8, XIV</folder_id>
+            <modification_id>5.2 АТ (700 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalFord-F-150-Raptor-V8-29</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Ford-F-150-Raptor-V8-29/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Ford-F-150-Raptor-V8-29/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Ford-F-150-Raptor-V8-29/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Ford-F-150-Raptor-V8-29/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Ford-F-150-Raptor-V8-29/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>19575000</price>
+            <currency>RUR</currency>
+            <vin>00000029</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Mercedes-Benz AMG GLE53 Coupe                                                     -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>AMG GLE53 Coupe, II (C167) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (429 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalMercedes-Benz-AMG-GLE53-Coupe-44</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>13050000</price>
+            <currency>RUR</currency>
+            <vin>00000044</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                                New   Range Rover Sport                                                               -->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>Sport, III</folder_id>
+            <modification_id>3.0 АТ (249 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalRange-Rover-Sport-91</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-91/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-91/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-91/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-91/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-91/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>12010000</price>
+            <currency>RUR</currency>
+            <vin>0000091</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  MB AMG GLE 53                                                    -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>AMG GLE53, II (V167) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (429 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalMB-AMG-GLE53-03</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/MB-AMG-GLE53-03/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/MB-AMG-GLE53-03/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/MB-AMG-GLE53-03/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/MB-AMG-GLE53-03/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/MB-AMG-GLE53-03/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>синий</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>12375000</price>
+            <currency>RUR</currency>
+            <vin>00000003</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  INFINITI QX80                                                   -->
+            <mark_id>INFINITI</mark_id>
+            <folder_id>QX80, II</folder_id>
+            <modification_id>3.5 АТ (450 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalINFINITI-QX80-18</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/INFINITI-QX80-18/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/INFINITI-QX80-18/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/INFINITI-QX80-18/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/INFINITI-QX80-18/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/INFINITI-QX80-18/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>13095000</price>
+            <currency>RUR</currency>
+            <vin>000000118</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                          New  Porsche Panamera                                               -->
+            <mark_id>Porsche</mark_id>
+            <folder_id>Panamera, III</folder_id>
+            <modification_id>2.9 АТ (348 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalPorsche-Panamera-24</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Porsche-Panamera-24/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Panamera-24/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Panamera-24/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Panamera-24/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Panamera-24/back.jpg</image>
+            </images>
+            <body_type>лифтбек</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>16080000</price>
+            <currency>RUR</currency>
+            <vin>000000124</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                          New  Porsche Cayenne                                              -->
+            <mark_id>Porsche</mark_id>
+            <folder_id>Cayenne, III Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (348 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalPorsche-Cayenne-25</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-25/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-25/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-25/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-25/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-25/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>12300000</price>
+            <currency>RUR</currency>
+            <vin>000000125</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  BMW 520d                                                    -->
+            <mark_id>BMW</mark_id>
+            <folder_id>520d, VIII (G60/G61/G68)</folder_id>
+            <modification_id>2.0 АТ (197 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalBMW-520i-57</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW-520i-57/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-520i-57/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-520i-57/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-520i-57/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-520i-57/back.jpg</image>
+            </images>
+            <body_type>седан</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>6125000</price>
+            <currency>RUR</currency>
+            <vin>000000157</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Jeep Grand Cherokee                                                    -->
+            <mark_id>Jeep</mark_id>
+            <folder_id>Grand Cherokee, V (WL)</folder_id>
+            <modification_id>2.0 АТ (375 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalJeep-Grand-Cherokee-58</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Jeep-Grand-Cherokee-58/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Jeep-Grand-Cherokee-58/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Jeep-Grand-Cherokee-58/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Jeep-Grand-Cherokee-58/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Jeep-Grand-Cherokee-58/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>6670000</price>
+            <currency>RUR</currency>
+            <vin>000000158</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Mercedes-Benz E200                                                   -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>E200, VI (W214, S214)</folder_id>
+            <modification_id>2.0 АТ (227 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalMercedes-Benz-E200-60</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-E200-60/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-E200-60/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-E200-60/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-E200-60/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-E200-60/back.jpg</image>
+            </images>
+            <body_type>седан</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2025</year>
+            <price>7355000</price>
+            <currency>RUR</currency>
+            <vin>0000000160</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Mercedes-Benz CLE200                                                   -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>CLE200, I</folder_id>
+            <modification_id>2.0 АТ (204 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalMercedes-Benz-CLE200-65</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-CLE200-65/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-CLE200-65/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-CLE200-65/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-CLE200-65/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-CLE200-65/back.jpg</image>
+            </images>
+            <body_type>купе</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>7780000</price>
+            <currency>RUR</currency>
+            <vin>0000000165</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New   Jeep Wrangler Willys                                                  -->
+            <mark_id>Jeep</mark_id>
+            <folder_id>Wrangler Willys, IV (JL)</folder_id>
+            <modification_id>2.0 АТ (375 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalJeep-Wrangler-Willys-94</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Jeep-Wrangler-Willys-94/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Jeep-Wrangler-Willys-94/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Jeep-Wrangler-Willys-94/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Jeep-Wrangler-Willys-94/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Jeep-Wrangler-Willys-94/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>синий</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>6075000</price>
+            <currency>RUR</currency>
+            <vin>000000194</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Audi Q8 50 TDI                                                -->
+            <mark_id>Audi</mark_id>
+            <folder_id>Q8 50 TDI, I (4M) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (286 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalAudi-Q8-55TFSI-05</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi-Q8-55TFSI-05/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q8-55TFSI-05/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q8-55TFSI-05/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q8-55TFSI-05/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q8-55TFSI-05/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2025</year>
+            <price>10920000</price>
+            <currency>RUR</currency>
+            <vin>000000105</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           BMW X7 xDrive40i                                                    -->
+            <mark_id>BMW</mark_id>
+            <folder_id>X7 xDrive40i, I (G07) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (381 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalBMW-X7-xDrive40i-06</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-06/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-06/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-06/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-06/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-06/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>12015000</price>
+            <currency>RUR</currency>
+            <vin>000000106</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Mercedes-Benz GLC220d                                                   -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLC220d, II (X254)</folder_id>
+            <modification_id>2.0 АТ (197 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalMercedes-Benz-GLC300-07</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLC300-07/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLC300-07/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLC300-07/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLC300-07/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLC300-07/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2025</year>
+            <price>7835000</price>
+            <currency>RUR</currency>
+            <vin>0000000107</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                         New  Range Rover Velar                                                        -->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>Velar, I Рестайлинг</folder_id>
+            <modification_id>2.0 АТ (250 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalRange-Rover-Velar-12</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Velar-12/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Velar-12/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Velar-12/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Velar-12/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Velar-12/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>9050000</price>
+            <currency>RUR</currency>
+            <vin>00000112</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           NEW BMW X5 xDrive30d                                                    -->
+            <mark_id>BMW</mark_id>
+            <folder_id>X5 xDrive30d, IV (G05/G18) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (298 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalBMW-X5-xDrive30d-13</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW-X5-xDrive30d-13/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5-xDrive30d-13/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5-xDrive30d-13/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5-xDrive30d-13/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5-xDrive30d-13/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>9765000</price>
+            <currency>RUR</currency>
+            <vin>000000113</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           NEW BMW X6 xDrive30d                                                    -->
+            <mark_id>BMW</mark_id>
+            <folder_id>X6 xDrive30d, III (G06) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (286 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalBMW-X6-xDrive30d-14</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW-X6-xDrive30d-14/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X6-xDrive30d-14/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X6-xDrive30d-14/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X6-xDrive30d-14/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X6-xDrive30d-14/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>11520000</price>
+            <currency>RUR</currency>
+            <vin>000000114</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           NEW BMW X5M Competition                                                   -->
+            <mark_id>BMW</mark_id>
+            <folder_id>X5M Competition , III (F95)</folder_id>
+            <modification_id>4.4 АТ (625 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalBMW-X5M-Competition-22</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-22/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-22/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-22/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-22/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-22/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>19890000</price>
+            <currency>RUR</currency>
+            <vin>000000122</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           NEW Bentley Flying Spur                                                   -->
+            <mark_id>Bentley</mark_id>
+            <folder_id>Flying Spur , III</folder_id>
+            <modification_id>4.0 АТ (549 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalBentley-Flying-Spur-27</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Bentley-Flying-Spur-27/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Bentley-Flying-Spur-27/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Bentley-Flying-Spur-27/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Bentley-Flying-Spur-27/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Bentley-Flying-Spur-27/back.jpg</image>
+            </images>
+            <body_type>седан</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>30470000</price>
+            <currency>RUR</currency>
+            <vin>000000127</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Mercedes-Benz G450d                                                  -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>G450d, III (W465)</folder_id>
+            <modification_id>3.0 АТ (367 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalMercedes-Benz-G450d-28</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-G450d-28/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-G450d-28/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-G450d-28/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-G450d-28/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-G450d-28/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2025</year>
+            <price>21050000</price>
+            <currency>RUR</currency>
+            <vin>0000000128</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New  Audi Q7 45 TFSI                                                -->
+            <mark_id>Audi</mark_id>
+            <folder_id>Q7 45 TFSI, II (4M) Рестайлинг 2</folder_id>
+            <modification_id>2.0 АТ (261 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalAudi-Q7-45-TFSI-42</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi-Q7-45-TFSI-42/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q7-45-TFSI-42/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q7-45-TFSI-42/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q7-45-TFSI-42/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q7-45-TFSI-42/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>8470000</price>
+            <currency>RUR</currency>
+            <vin>000000142</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--                                                           New Volvo XC90 T8                                                -->
+            <mark_id>Volvo</mark_id>
+            <folder_id>XC90 T8, II Рестайлинг 2</folder_id>
+            <modification_id>2.0 АТ (455 л.с.)</modification_id>
+            <url>https://ncimport.ru/?modal=modalVolvo-XC90-T8-59</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Volvo-XC90-T8-59/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Volvo-XC90-T8-59/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Volvo-XC90-T8-59/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Volvo-XC90-T8-59/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Volvo-XC90-T8-59/back.jpg</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2025</year>
+            <price>9200000</price>
+            <currency>RUR</currency>
+            <vin>000000159</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+    </cars>
+
+</data>

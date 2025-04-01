@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html dir="auto">
+<head>
+  <meta charset="utf-8" />
+  <meta name="referrer" content="unsafe-url" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="data:,">
+  <title></title>
+  <style>
+    .info {
+      text-align: center;
+      width: 90%;
+      max-width: 630px;
+      margin: 10% auto;
+      font-size: 18px;
+      font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+    }
+    
+    .antibot-btn-success {
+      border: 2px solid transparent;
+      background: #28a745;
+      color: #ffffff;
+      font-size: 18px;
+      line-height: 15px;
+      padding: 10px 10px;
+      text-decoration: none;
+      text-shadow: none;
+      border-radius: 3px;
+      box-shadow: none;
+      transition: 0.25s;
+      display: block;
+      margin: 0 auto;
+    }
+    
+    .antibot-btn-success:hover {
+      background-color: #218838;
+    }
+    
+    .antibot-btn-color {
+      cursor: pointer;
+      padding: 14px 14px;
+      text-decoration: none;
+      display: inline-block;
+      width: 14px;
+      height: 16px;
+    }
+    
+    .antibot-btn-color:hover {
+      border: 2px solid #ccc;
+      width: 10px;
+      height: 10px;
+    }
+    
+    .block1 {
+      width: 97%;
+      height: 97%;
+      display: table;
+      position: absolute;
+    }
+    
+    .block2 {
+      display: table-cell;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="block1">
+    <div class="block2">
+      <div class="info" id="content">Loading...</div>
+    </div>
+  </div>
+</body>
+
+</html>
